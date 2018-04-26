@@ -3,11 +3,13 @@ var book1 = 'All the Light We Cannot See';
 var book2 = 'The Silent Sister';
 var book3 = 'A Man Called Ove'
 var book4 = 'Big Little Lies';
+var book5 = 'Winter in madrid';
 
 getBook(book1);
 getBook(book2);
 getBook(book3);
 getBook(book4);
+getBook(book5);
 
 function getBook( bookName){
   var xhttp = new XMLHttpRequest();
