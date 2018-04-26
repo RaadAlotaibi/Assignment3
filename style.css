@@ -1,0 +1,48 @@
+
+body {
+  background-color: #c7c7c7;
+  font-family: "tahoma", tahoma;
+  font-size: 18px;
+  margin: 0;
+}
+
+#sort-wrap {
+  color: grey;
+  padding-left: 25px;
+  padding-top: 50px;
+}
+ul#navbar li {
+  display: inline;
+  font-size: 30px;  
+}
+
+li a{
+  color: grey;
+  text-decoration: none;
+}
+
+#navbar li a:hover {
+  background-color: #c7c7c7;
+  color: white;
+}
+
+
+ul#navbar {
+  margin: auto;
+  padding: inherit;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+ul {
+  background-color: antiquewhite;
+  list-style: none;
+  padding-bottom: 50px;
+}
+
+
+
+
